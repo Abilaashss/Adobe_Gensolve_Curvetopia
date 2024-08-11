@@ -12,7 +12,7 @@ If you are not having a zip file containing the test images, comment down the lo
 ## Now run the Adobe_Regularise_GAN.py using
 
 ```python
-python3 run Adobe_Regularise_GAN.py
+python3 run main.py
 
 ```
 
